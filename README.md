@@ -4,7 +4,7 @@
 This project is focused on researching the climate of Hawaii to determine the practicality of operating the Surf and Ice Cream Shop and be profitable throughout the year. We assume that the Surf and Ice Cream shop will perform better (business is more sustainable) if the weather is better (higher temps, lower rainfall). To determine the sustainability, we used a variety of programs to filter through a large amount of data focused around Oahu, HI. We used SQLAlchemy, Python, and Pandas to pull the temperatures during the month of June and December to measure weather during the summer and winter months. We measure temperature in Degrees Fahrenheit. 
 
 # Results
-![June Results](Resources/June_Temps.png)
+
 ### June
 After 1700 measurements, we can see that the average temperature in June is 74.94 degrees with a range of 73-77 degrees for the middle 50% of data points. The maximum temperature is 85 degrees and the minimum temperature was 64 degrees. 
 
